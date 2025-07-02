@@ -6,7 +6,9 @@ An AI-powered cross-platform mobile application that generates personalized trav
 
 ## 📸 Screenshots
 
-> _Add your screenshots here if not already added in repo_
+
+![Home Screen](https://github.com/user-attachments/assets/dd51aa6c-f9ee-40da-bda5-d5a15c526b8d)
+
 
 ---
 
